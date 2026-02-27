@@ -1,0 +1,6 @@
+nilai1 = float (input("masukan nilai 1"))
+nilai2 = float (input("masukan nilai 2"))
+nilai3 = float (input("masukan nilai 3"))
+
+rata_rata : ("nilai1+nilai2+nilai3")
+print ("rata-rata :rata-rata")
